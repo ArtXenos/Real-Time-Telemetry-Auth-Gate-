@@ -1,4 +1,4 @@
-# Real-Time-Telemetry-Auth-Gate-
+# Real-Time-Telemetry(Auth-Gate)
 
 Real-Time Telemetry (Auth Gate)
 Core Task: Add a live character counter directly beneath the password field.
